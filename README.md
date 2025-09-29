@@ -18,5 +18,5 @@
 - Outside Centre
 - Left Wing
 - Right Wing
-- Full Back
+- Full Back  
 **Bold** are specialist positions
